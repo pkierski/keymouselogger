@@ -1,0 +1,3 @@
+[submodule "globalmousekeyhook"]
+	path = globalmousekeyhook
+	url = git@github.com:gmamaladze/globalmousekeyhook.git
